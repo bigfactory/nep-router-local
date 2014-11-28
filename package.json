@@ -1,0 +1,17 @@
+{
+    "name": "nep-router-local",
+    "version": "0.0.1",
+    "description": "local router for nep",
+    "main": "index.js",
+    "author": {
+        "name": "hxc",
+        "email": "xiaocong.hxc@qq.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bigfactory/nep-router-local.git"
+    },
+    "license": "ISC",
+    "dependencies": {
+    }
+}
